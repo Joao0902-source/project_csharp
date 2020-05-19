@@ -1,0 +1,13 @@
+C:\Users\jpg09\source\repos\NovoAula\obj\Debug\netcoreapp3.1\NovoAula.csprojAssemblyReference.cache
+C:\Users\jpg09\source\repos\NovoAula\obj\Debug\netcoreapp3.1\NovoAula.csproj.CoreCompileInputs.cache
+C:\Users\jpg09\source\repos\NovoAula\obj\Debug\netcoreapp3.1\NovoAula.AssemblyInfoInputs.cache
+C:\Users\jpg09\source\repos\NovoAula\obj\Debug\netcoreapp3.1\NovoAula.AssemblyInfo.cs
+C:\Users\jpg09\source\repos\NovoAula\bin\Debug\netcoreapp3.1\NovoAula.exe
+C:\Users\jpg09\source\repos\NovoAula\bin\Debug\netcoreapp3.1\NovoAula.deps.json
+C:\Users\jpg09\source\repos\NovoAula\bin\Debug\netcoreapp3.1\NovoAula.runtimeconfig.json
+C:\Users\jpg09\source\repos\NovoAula\bin\Debug\netcoreapp3.1\NovoAula.runtimeconfig.dev.json
+C:\Users\jpg09\source\repos\NovoAula\bin\Debug\netcoreapp3.1\NovoAula.dll
+C:\Users\jpg09\source\repos\NovoAula\bin\Debug\netcoreapp3.1\NovoAula.pdb
+C:\Users\jpg09\source\repos\NovoAula\obj\Debug\netcoreapp3.1\NovoAula.dll
+C:\Users\jpg09\source\repos\NovoAula\obj\Debug\netcoreapp3.1\NovoAula.pdb
+C:\Users\jpg09\source\repos\NovoAula\obj\Debug\netcoreapp3.1\NovoAula.genruntimeconfig.cache
